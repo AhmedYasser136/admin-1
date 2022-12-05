@@ -1,0 +1,17 @@
+
+    What are the minimum permission needed for:
+
+    Copy a directory (permission for source directory and permissions for target parent directory) source directory: execute and read permission target directory: execute and write permission.
+
+    Copy a file (permission for source file and and permission for target parent directory) source file: read permission. target file: dosn't need any permission since it doesn't exit before you copy it, or write permission if the file exists
+
+    Delete a file To delete a file requires both write (to modify the directory itself) and execute (to stat() the file's inode) on a directory
+
+    Change to a directory write & execute
+
+    List a directory content (ls command) read
+
+    View a file content (more/cat command) read
+
+    Modify a file content wirte, read & execute
+

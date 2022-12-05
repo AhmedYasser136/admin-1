@@ -1,0 +1,4 @@
+
+
+What is the difference between the “x” permission for a file and for a directory? Execute permission on files means the right to execute them, if they are programs. For directories, execute permission allows you to enter the directory and to access any of its files
+
