@@ -1,4 +1,5 @@
-# redhat
+# admin 1
+
 
   Install CentOS /RHEL 
 2.  What is the difference between cat and more command? 
